@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", "desc":"This is sample message body of first post" },
+    { "id": 2, "title": "Post 2", "desc":"This is sample message body of first post" },
+    { "id": 3, "title": "Post 3", "desc":"This is sample message body of first post" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
