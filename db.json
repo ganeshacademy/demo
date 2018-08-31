@@ -1,4 +1,4 @@
-[
+{ "busdata" : [
     {
         "busTitle": "B1",
         "totalNoOfSeats": 50,
@@ -387,4 +387,5 @@
             }
         ]
     }
-]
+] 
+}
