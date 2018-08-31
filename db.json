@@ -334,58 +334,6 @@
                 ]
             }
         ]
-    },
-    {
-        "busTitle": "ksrtc",
-        "totalNoOfSeats": 1,
-        "noOfSeatsAvailable": 0,
-        "busType": "Multi Axle",
-        "busTravelDate": "2018-08-31",
-        "busTravelTime": "03:30",
-        "busSource": "Bangalore",
-        "busDestination": "Mysore",
-        "costPerSeat": 850,
-        "bookings": [
-            {
-                "bookingEmail": "pooja@gmail.com",
-                "noOfSeats": 1,
-                "totalCost": 850,
-                "paymentMethod": "credit",
-                "creditCardNumber": "123456123456",
-                "expiryYear": 0,
-                "expiryMonth": 2,
-                "ticketNumbers": [
-                    1
-                ]
-            }
-        ]
-    },
-    {
-        "busTitle": "laptop",
-        "totalNoOfSeats": 40,
-        "noOfSeatsAvailable": 37,
-        "busType": "Multi Axle",
-        "busTravelDate": "2018-08-01",
-        "busTravelTime": "10:30",
-        "busSource": "Bangalore",
-        "busDestination": "Mysore",
-        "costPerSeat": 200,
-        "bookings": [
-            {
-                "bookingEmail": "xyz@gmail.com",
-                "noOfSeats": 3,
-                "totalCost": 600,
-                "paymentMethod": "credit",
-                "creditCardNumber": "1390234029384",
-                "expiryYear": 33,
-                "expiryMonth": 12,
-                "ticketNumbers": [
-                    1,
-                    2,
-                    3
-                ]
-            }
-        ]
     }
 ] 
 }
